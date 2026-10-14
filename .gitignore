@@ -1,0 +1,9 @@
+#Python bytcode a nd cache
+__pycache__/
+
+#Virtual Environment
+venv/
+.venv/
+
+#Database
+db.sqlite3
